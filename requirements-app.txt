@@ -1,0 +1,6 @@
+stable-baselines3==2.3.2
+gymnasium>=0.28.1
+shimmy>=0.2.1
+streamlit>=1.28.0
+numpy==2.3.5
+matplotlib>=3.7.0
